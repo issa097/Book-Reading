@@ -22,5 +22,4 @@ Wireframe and Mockup Link : https://www.figma.com/file/ji5lSe21DmFL2IahJN7xQv/Un
 - Firebase
 
 ---
-### Live code
-- [Live code : Book-Reading ]( https://issa097.github.io/js-project/)
+
