@@ -8,16 +8,19 @@ Trello Link : https://trello.com/b/tIvzChf8/book-reading
 
 Wireframe and Mockup Link : https://www.figma.com/file/ji5lSe21DmFL2IahJN7xQv/Untitled?type=design&node-id=0%3A1&mode=design&t=VHBQDGzlsvB1YlIL-1
 
-[SM & MEMBER : Mohammed Younis](https://github.com/MohammedYounis2001)
+[ MEMBER : Issa Haddad ](https://github.com/issa097)
 
-[PO & MEMBER : Osama Alnobani](https://github.com/osamaraed53)
+----
+# Project-JavaScript
+---
+# Tools 
+- Html
+- Css
+- Tailwind
+- js
+- json-server
+- Firebase
 
-[QA & MEMBER : Rafat Maita](https://github.com/rafatmaita)
-
-[MEMBER : Ramzi Abulail](https://github.com/ramzi-abulail)
-
-[MEMBER : Marah Salah](https://github.com/MarahSalah)
-
-[MEMBER : Maha Alkaabneh](https://github.com/maha-mohammad01)
-
-[MEMBER : Issa Haddad](https://github.com/issa097)
+---
+### Live code
+- [Live code : Book-Reading ]( https://issa097.github.io/js-project/)
